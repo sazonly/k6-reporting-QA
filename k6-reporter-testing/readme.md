@@ -65,6 +65,11 @@ export function handleSummary(data) {
 
 # Screenshots
 
-![main report screenshot](https://user-images.githubusercontent.com/14982936/111346520-32b64100-8676-11eb-9b35-df32ef1982b1.png)
+![main report screenshots](https://github.com/sazonly/k6-reporting-QA/blob/main/k6-reporter-testing/Screenshot%202024-01-25%20213316.png)
 
-![another report screenshot](https://user-images.githubusercontent.com/14982936/111085882-5d3ab980-8511-11eb-819d-d283bd03dc88.png)
+![another report screenshot](https://github.com/sazonly/k6-reporting-QA/blob/main/k6-reporter-testing/Screenshot%202024-01-25%20213422.png)
+
+![another report screenshot1](https://github.com/sazonly/k6-reporting-QA/blob/main/k6-reporter-testing/Screenshot%202024-01-25%20213342.png)
+
+![another report screenshot2](https://github.com/sazonly/k6-reporting-QA/blob/main/k6-reporter-testing/Screenshot%202024-01-25%20213403.png)
+
